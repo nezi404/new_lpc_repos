@@ -1,7 +1,6 @@
 """
-The game visual was taken as a priority, hence it affects
-the game experience because the way it was made.
-Turtle moves itself slow it moves, for the sake of bugs.
+The game experience is bad, but I tried to make it look like the original.
+The Turtle is slow, I couldn't find the bug that let it that way.
 """
 # Libraries needed
 import time
